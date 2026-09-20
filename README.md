@@ -3,6 +3,9 @@ Landing page standalone Universitas Siber Muhammadiyah yang menyatukan informasi
 
 > Landing page satu halaman Universitas Siber Muhammadiyah yang menyatukan ruang aktualisasi mahasiswa dengan nilai Al-Islam dan Kemuhammadiyahan.
 
+## Preview
+<img width="1904" height="813" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/e95bcf99-c953-410d-a11e-5b7fe916148a" />
+
 ## Deskripsi singkat
 
 **Ruang Tumbuh** adalah landing page untuk Universitas Siber Muhammadiyah (SiberMu) yang menghadirkan informasi kemahasiswaan dan Al-Islam Kemuhammadiyahan (AIK) dalam satu ekosistem digital. Project ini dirancang untuk memperlihatkan bahwa organisasi, UKM, prestasi, layanan mahasiswa, kegiatan keagamaan, kajian, syiar, dan nilai Kemuhammadiyahan saling terhubung dalam proses pembentukan mahasiswa yang berilmu, beriman, dan berdampak.
